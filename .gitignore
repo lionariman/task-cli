@@ -1,0 +1,13 @@
+# Ignore IDE settings
+.idea/
+.vscode/
+
+# Ignore compiled files
+*.exe
+*.out
+
+# Ignore OS files
+.DS_Store
+
+# Ignore go binary file
+./main
